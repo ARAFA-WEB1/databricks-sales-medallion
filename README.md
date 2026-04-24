@@ -173,6 +173,6 @@ Connected Power BI Desktop directly to Databricks via the SQL Warehouse connecto
 
 ## 👤 Author
 
-**Mohamed Negm**
+**Mohamed Arafa**
 Computer Science — Egypt-Japan University of Science and Technology (E-JUST)
 DEPI Program — AI & Data Engineering Track
